@@ -1,6 +1,7 @@
 {
   "name": "App Store Connect Notifier",
   "description": "Get those App Store Connect notifications delivered directly to Slack.",
+  "stack": "heroku-18",
   "keywords": [
     "slack",
     "App Store",
